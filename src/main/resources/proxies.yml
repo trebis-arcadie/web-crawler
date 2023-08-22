@@ -1,0 +1,65 @@
+proxies:
+  -
+    ip: "34.23.45.223"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "70.184.195.198"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "70.184.195.199"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "147.124.215.199"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "147.124.215.199"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "75.89.101.60"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "47.88.62.42"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "160.72.82.101"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "52.24.80.166"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "51.38.191.151"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "136.144.178.240"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "80.240.130.161"
+    port: 8888
+    protocol: "HTTP"
+  -
+    ip: "46.101.219.34"
+    port: 80
+    protocol: "HTTP"
+  -
+    ip: "188.166.165.63"
+    port: 8888
+    protocol: "HTTP"
+  -
+    ip: "51.254.121.123"
+    port: 8088
+    protocol: "HTTP"
+  -
+    ip: "20.77.80.197"
+    port: 80
+    protocol: "HTTP"

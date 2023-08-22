@@ -14,6 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <jsoup.version>1.16.1</jsoup.version>
         <lombok.version>1.18.28</lombok.version>
+        <snakeyaml.version>2.1</snakeyaml.version>
     </properties>
 
     <dependencies>
@@ -21,6 +22,11 @@
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
             <version>${jsoup.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>${snakeyaml.version}</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
