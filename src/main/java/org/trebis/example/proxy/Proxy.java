@@ -12,5 +12,4 @@ import lombok.ToString;
 public class Proxy {
     private String ip;
     private Integer port;
-    private String protocol;
 }
